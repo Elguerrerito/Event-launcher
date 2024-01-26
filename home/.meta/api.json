@@ -1,0 +1,6 @@
+{
+	"name": "SoaringHunt",
+	"version": 1,
+	"sha": "565e331be37a9418e9f15797dc353a67ee695503",
+	"_comment": "Here for future proofing incase we need to introduce a breaking change to this system."
+}

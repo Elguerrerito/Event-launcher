@@ -1,0 +1,7 @@
+{
+	"id": "SoaringHunt",
+	"type": "custom",
+	"sha1": "cd987a49ee76df6e05942e650429ebb484b961f0",
+	"base": "fabric-loader-0.15.6-1.20.4",
+	"url": "https://raw.githubusercontent.com/Elguerrerito/launcher/main/home/.meta/version.json"
+}
