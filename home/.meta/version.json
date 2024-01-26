@@ -7,7 +7,7 @@
 				"path": [
 					"mods"
 				],
-				"url": "https://raw.githubusercontent.com/Elguerrerito/launcher/main/home/mods/BetterF3-9.0.0-Forge-1.20.4.jar",
+				"url": "https://raw.githubusercontent.com/Elguerrerito/Event-launcher/234ee85d50f06c8599c95306525aa285159500a5/home/mods/BetterF3-9.0.0-Forge-1.20.4.jar",
 				"chk": {
 					"sha1": "d5db099f7d6c28beaf7daad5ad9929a2c7ee46fa",
 					"size": 468359
@@ -19,7 +19,7 @@
 				"path": [
 					"mods"
 				],
-				"url": "https://raw.githubusercontent.com/Elguerrerito/launcher/main/home/mods/fabric-api-0.95.1+1.20.4.jar",
+				"url": "https://raw.githubusercontent.com/Elguerrerito/Event-launcher/234ee85d50f06c8599c95306525aa285159500a5/home/mods/fabric-api-0.95.1+1.20.4.jar",
 				"chk": {
 					"sha1": "ffda830e5741660e14e1880e8d6b500acd6f58c5",
 					"size": 2135215
@@ -31,7 +31,7 @@
 				"path": [
 					"mods"
 				],
-				"url": "https://raw.githubusercontent.com/Elguerrerito/launcher/main/home/mods/iris-mc1.20.4-1.6.14.jar",
+				"url": "https://raw.githubusercontent.com/Elguerrerito/Event-launcher/234ee85d50f06c8599c95306525aa285159500a5/home/mods/iris-mc1.20.4-1.6.14.jar",
 				"chk": {
 					"sha1": "7e62bb2851f2afc06946ea3fc170173528aefdbb",
 					"size": 2400882
@@ -43,7 +43,7 @@
 				"path": [
 					"mods"
 				],
-				"url": "https://raw.githubusercontent.com/Elguerrerito/launcher/main/home/mods/modmenu-9.0.0-pre.1.jar",
+				"url": "https://raw.githubusercontent.com/Elguerrerito/Event-launcher/234ee85d50f06c8599c95306525aa285159500a5/home/mods/modmenu-9.0.0-pre.1.jar",
 				"chk": {
 					"sha1": "940a5614137befcad119740e20a2cfceb254307a",
 					"size": 724562
@@ -55,7 +55,7 @@
 				"path": [
 					"mods"
 				],
-				"url": "https://raw.githubusercontent.com/Elguerrerito/launcher/main/home/mods/soaringhunt-1.0.0.jar",
+				"url": "https://raw.githubusercontent.com/Elguerrerito/Event-launcher/234ee85d50f06c8599c95306525aa285159500a5/home/mods/soaringhunt-1.0.0.jar",
 				"chk": {
 					"sha1": "37234a19773f291383f6172c05530168fc4984f6",
 					"size": 1600561
@@ -67,7 +67,7 @@
 				"path": [
 					"mods"
 				],
-				"url": "https://raw.githubusercontent.com/Elguerrerito/launcher/main/home/mods/sodium-fabric-mc1.20.3-0.5.5.jar",
+				"url": "https://raw.githubusercontent.com/Elguerrerito/Event-launcher/234ee85d50f06c8599c95306525aa285159500a5/home/mods/sodium-fabric-mc1.20.3-0.5.5.jar",
 				"chk": {
 					"sha1": "999eb53c5761850e99d234812dd0f710640b79a5",
 					"size": 903118
@@ -79,7 +79,7 @@
 				"path": [
 					"mods"
 				],
-				"url": "https://raw.githubusercontent.com/Elguerrerito/launcher/main/home/mods/watermedia-2.0.27-beta.jar",
+				"url": "https://raw.githubusercontent.com/Elguerrerito/Event-launcher/234ee85d50f06c8599c95306525aa285159500a5/home/mods/watermedia-2.0.27-beta.jar",
 				"chk": {
 					"sha1": "236a941944ba147700fd26c4aefb1885b0d3d837",
 					"size": 56611263
@@ -97,7 +97,7 @@
 				"path": [
 					".data"
 				],
-				"url": "https://raw.githubusercontent.com/Elguerrerito/launcher/main/home/.data/saves_0.zip",
+				"url": "https://raw.githubusercontent.com/Elguerrerito/Event-launcher/234ee85d50f06c8599c95306525aa285159500a5/home/.data/saves_0.zip",
 				"chk": {
 					"sha1": "e989ad86498d60f2bfb06608ed7ec519f19b6a81",
 					"size": 317
@@ -113,7 +113,7 @@
 				"path": [
 					".data"
 				],
-				"url": "https://raw.githubusercontent.com/Elguerrerito/launcher/main/home/.data/config.zip",
+				"url": "https://raw.githubusercontent.com/Elguerrerito/Event-launcher/234ee85d50f06c8599c95306525aa285159500a5/home/.data/config.zip",
 				"chk": {
 					"sha1": "ad78c541c969d035dcbdcc2ecb541b592304a938",
 					"size": 64624
@@ -128,7 +128,7 @@
 				"path": [
 					".data"
 				],
-				"url": "https://raw.githubusercontent.com/Elguerrerito/launcher/main/home/.data/misc.zip",
+				"url": "https://raw.githubusercontent.com/Elguerrerito/Event-launcher/234ee85d50f06c8599c95306525aa285159500a5/home/.data/misc.zip",
 				"chk": {
 					"sha1": "d1741eb036bfc3498ec2f97262631e42b38d5e80",
 					"size": 9121
